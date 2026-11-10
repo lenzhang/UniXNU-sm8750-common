@@ -1,0 +1,18 @@
+# Placeholder repository: no build outputs or secrets.
+/out/
+/build/
+*.img
+*.fd
+*.bin
+*.kc
+*.ipsw
+*.dmg
+*.macho
+*.dtb
+*.pem
+*.key
+*.psk
+__pycache__/
+*.pyc
+.DS_Store
+private/
